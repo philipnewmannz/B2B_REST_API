@@ -1,2 +1,2 @@
-# CircleSoft_REST_API
-Code required to capture and send API elements from CircleSoft
+# B2B_REST_API
+This is a template for a REST API for B2B paperless orders. 
